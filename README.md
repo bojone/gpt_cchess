@@ -1,11 +1,13 @@
 # gpt_cchess
 bert4keras实现gpt下中国象棋
 
-**脚本：[task_language_model_chinese_chess.py](https://github.com/bojone/bert4keras/blob/master/examples/task_language_model_chinese_chess.py)**
-
 ## 模型说明
 
-https://kexue.fm/archives/7877
+**脚本：[task_language_model_chinese_chess.py](https://github.com/bojone/bert4keras/blob/master/examples/task_language_model_chinese_chess.py)**
+
+介绍：https://kexue.fm/archives/7877
+
+模型训练可以在python2/python3进行。但是[cchess模块](https://github.com/walker8088/cchess)只支持python3，因此如果需要交互式体验模型棋力，那么需要在python3下进行。
 
 
 ## 棋谱下载
