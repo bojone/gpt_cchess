@@ -9,6 +9,7 @@ bert4keras实现gpt下中国象棋
 
 模型训练可以在python2/python3进行。但是[cchess模块](https://github.com/walker8088/cchess)只支持python3，因此如果需要交互式体验模型棋力，那么需要在python3下进行。
 
+个人训练好的模型权重下载：https://pan.baidu.com/s/1Vj90eLYO7pgRjNWqCeQKfw 提取码: w4i3
 
 ## 棋谱下载
 
